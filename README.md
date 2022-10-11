@@ -1,1 +1,1 @@
-# de_final_project
+# stock-prediction-twitter-api
